@@ -54,6 +54,7 @@
 - [ ] SQL Views
 - [ ] SQL Injection
 - [ ] SQL Hosting
+- [ ] Other types of Databases
 
 ## SQL References
 - [ ] [MySQL Functions](https://www.w3schools.com/sql/sql_ref_mysql.asp)
