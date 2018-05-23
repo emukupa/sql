@@ -1,6 +1,8 @@
 # sql
 
 ## Basics
+[NoSql Mongoose using MongoDB](http://mongoosejs.com/docs/guide.html)
+[Relational DB, w3 Schools](https://www.w3schools.com/sql/default.asp)
 - [ ] SQL Syntax
 - [ ] SQL Select
 - [ ] SQL Select Distinct
